@@ -1,6 +1,0 @@
-gci
-===
-
-geekcafeise
-
-test
